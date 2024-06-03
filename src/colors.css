@@ -1,254 +1,54 @@
-.air-force-blue {background-color: #5d8aa8}
-.alice-blue {background-color: #f0f8ff}
-.alizarin-crimson {background-color: #e32636}
-.almond {background-color: #efdecd}
-.amaranth {background-color: #e52b50}
-.amber {background-color: #ffbf00}
-.american-rose {background-color: #ff033e}
-.amethyst {background-color: #9966cc}
-.android-green {background-color: #a4c639}
-.anti-flash-white {background-color: #f2f3f4}
-.antique-brass {background-color: #cd9575}
-.antique-fuchsia {background-color: #915c83}
-.antique-white {background-color: #faebd7}
-.ao {background-color: #008000}
-.apple-green {background-color: #8db600}
-.apricot {background-color: #fbceb1}
-.aqua {background-color: #00ffff}
-.aquamarine {background-color: #7fffd4}
-.army-green {background-color: #4b5320}
-.arylide-yellow {background-color: #e9d66b}
-.ash-grey {background-color: #b2beb5}
-.asparagus {background-color: #87a96b}
-.atomic-tangerine {background-color: #ff9966}
-.auburn {background-color: #a52a2a}
-.aureolin {background-color: #fdee00}
-.aurometalsaurus {background-color: #6e7f80}
-.awesome {background-color: #ff2052}
-.azure {background-color: #007fff}
-.azure-mist {background-color: #f0ffff}
-.baby-blue {background-color: #89cff0}
-.baby-blue-eyes {background-color: #a1caf1}
-.baby-pink {background-color: #f4c2c2}
-.ball-blue {background-color: #21abcd}
-.banana-mania {background-color: #fae7b5}
-.banana-yellow {background-color: #ffe135}
-.battleship-grey {background-color: #848482}
-.bazaar {background-color: #98777b}
-.beau-blue {background-color: #bcd4e6}
-.beaver {background-color: #9f8170}
-.beige {background-color: #f5f5dc}
-.bisque {background-color: #ffe4c4}
-.bistre {background-color: #3d2b1f}
-.bittersweet {background-color: #fe6f5e}
-.black {background-color: #000000}
-.blanched-almond {background-color: #ffebcd}
-.bleu-de-france {background-color: #318ce7}
-.blizzard-blue {background-color: #ace5ee}
-.blond {background-color: #faf0be}
-.blue {background-color: #0000ff}
-.blue-bell {background-color: #a2a2d0}
-.blue-gray {background-color: #6699cc}
-.blue-green {background-color: #0d98ba}
-.blue-purple {background-color: #8a2be2}
-.blue-violet {background-color: #8a2be2}
-.blush {background-color: #de5d83}
-.bole {background-color: #79443b}
-.bondi-blue {background-color: #0095b6}
-.bone {background-color: #e3dac9}
-.boston-university-red {background-color: #cc0000}
-.bottle-green {background-color: #006a4e}
-.boysenberry {background-color: #873260}
-.brandeis-blue {background-color: #0070ff}
-.brass {background-color: #b5a642}
-.brick-red {background-color: #cb4154}
-.bright-cerulean {background-color: #1dacd6}
-.bright-green {background-color: #66ff00}
-.bright-lavender {background-color: #bf94e4}
-.bright-maroon {background-color: #c32148}
-.bright-pink {background-color: #ff007f}
-.bright-turquoise {background-color: #08e8de}
-.bright-ube {background-color: #d19fe8}
-.brilliant-lavender {background-color: #f4bbff}
-.brilliant-rose {background-color: #ff55a3}
-.brink-pink {background-color: #fb607f}
-.british-racing-green {background-color: #004225}
-.bronze {background-color: #cd7f32}
-.brown {background-color: #a52a2a}
-.bubble-gum {background-color: #ffc1cc}
-.bubbles {background-color: #e7feff}
-.buff {background-color: #f0dc82}
-.bulgarian-rose {background-color: #480607}
-.burgundy {background-color: #800020}
-.burlywood {background-color: #deb887}
-.burnt-orange {background-color: #cc5500}
-.burnt-sienna {background-color: #e97451}
-.burnt-umber {background-color: #8a3324}
-.byzantine {background-color: #bd33a4}
-.byzantium {background-color: #702963}
-.cg-blue {background-color: #007aa5}
-.cg-red {background-color: #e03c31}
-.cadet {background-color: #536872}
-.cadet-blue {background-color: #5f9ea0}
-.cadet-grey {background-color: #91a3b0}
-.cadmium-green {background-color: #006b3c}
-.cadmium-orange {background-color: #ed872d}
-.cadmium-red {background-color: #e30022}
-.cadmium-yellow {background-color: #fff600}
-.café-au-lait {background-color: #a67b5b}
-.café-noir {background-color: #4b3621}
-.cal-poly-pomona-green {background-color: #1e4d2b}
-.cambridge-blue {background-color: #a3c1ad}
-.camel {background-color: #c19a6b}
-.camouflage-green {background-color: #78866b}
-.canary {background-color: #ffff99}
-.canary-yellow {background-color: #ffef00}
-.candy-apple-red {background-color: #ff0800}
-.candy-pink {background-color: #e4717a}
-.capri {background-color: #00bfff}
-.caput-mortuum {background-color: #592720}
-.cardinal {background-color: #c41e3a}
-.caribbean-green {background-color: #00cc99}
-.carmine {background-color: #ff0040}
-.carmine-pink {background-color: #eb4c42}
-.carmine-red {background-color: #ff0038}
-.carnation-pink {background-color: #ffa6c9}
-.carnelian {background-color: #b31b1b}
-.carolina-blue {background-color: #99badd}
-.carrot-orange {background-color: #ed9121}
-.celadon {background-color: #ace1af}
-.celeste {background-color: #b2ffff}
-.celestial-blue {background-color: #4997d0}
-.cerise {background-color: #de3163}
-.cerise-pink {background-color: #ec3b83}
-.cerulean {background-color: #007ba7}
-.cerulean-blue {background-color: #2a52be}
-.chamoisee {background-color: #a0785a}
-.champagne {background-color: #fad6a5}
-.charcoal {background-color: #36454f}
-.chartreuse {background-color: #7fff00}
-.cherry {background-color: #de3163}
-.cherry-blossom-pink {background-color: #ffb7c5}
-.chestnut {background-color: #cd5c5c}
-.chocolate {background-color: #d2691e}
-.chrome-yellow {background-color: #ffa700}
-.cinereous {background-color: #98817b}
-.cinnabar {background-color: #e34234}
-.cinnamon {background-color: #d2691e}
-.citrine {background-color: #e4d00a}
-.classic-rose {background-color: #fbcce7}
-.cobalt {background-color: #0047ab}
-.cocoa-brown {background-color: #d2691e}
-.coffee {background-color: #6f4e37}
-.columbia-blue {background-color: #9bddff}
-.cool-black {background-color: #002e63}
-.cool-grey {background-color: #8c92ac}
-.copper {background-color: #b87333}
-.copper-rose {background-color: #996666}
-.coquelicot {background-color: #ff3800}
-.coral {background-color: #ff7f50}
-.coral-pink {background-color: #f88379}
-.coral-red {background-color: #ff4040}
-.cordovan {background-color: #893f45}
-.corn {background-color: #fbec5d}
-.cornell-red {background-color: #b31b1b}
-.cornflower {background-color: #9aceeb}
-.cornflower-blue {background-color: #6495ed}
-.cornsilk {background-color: #fff8dc}
-.cosmic-latte {background-color: #fff8e7}
-.cotton-candy {background-color: #ffbcd9}
-.cream {background-color: #fffdd0}
-.crimson {background-color: #dc143c}
-.crimson-red {background-color: #990000}
-.crimson-glory {background-color: #be0032}
-.cyan {background-color: #00ffff}
-.daffodil {background-color: #ffff31}
-.dandelion {background-color: #f0e130}
-.dark-blue {background-color: #00008b}
-.dark-brown {background-color: #654321}
-.dark-byzantium {background-color: #5d3954}
-.dark-candy-apple-red {background-color: #a40000}
-.dark-cerulean {background-color: #08457e}
-.dark-chestnut {background-color: #986960}
-.dark-coral {background-color: #cd5b45}
-.dark-cyan {background-color: #008b8b}
-.dark-electric-blue {background-color: #536878}
-.dark-goldenrod {background-color: #b8860b}
-.dark-gray {background-color: #a9a9a9}
-.dark-green {background-color: #013220}
-.dark-jungle-green {background-color: #1a2421}
-.dark-khaki {background-color: #bdb76b}
-.dark-lava {background-color: #483c32}
-.dark-lavender {background-color: #734f96}
-.dark-magenta {background-color: #8b008b}
-.dark-midnight-blue {background-color: #003366}
-.dark-olive-green {background-color: #556b2f}
-.dark-orange {background-color: #ff8c00}
-.dark-orchid {background-color: #9932cc}
-.dark-pastel-blue {background-color: #779ecb}
-.dark-pastel-green {background-color: #03c03c}
-.dark-pastel-purple {background-color: #966fd6}
-.dark-pastel-red {background-color: #c23b22}
-.dark-pink {background-color: #e75480}
-.dark-powder-blue {background-color: #003399}
-.dark-raspberry {background-color: #872657}
-.dark-red {background-color: #8b0000}
-.dark-salmon {background-color: #e9967a}
-.dark-scarlet {background-color: #560319}
-.dark-sea-green {background-color: #8fbc8f}
-.dark-sienna {background-color: #3c1414}
-.dark-slate-blue {background-color: #483d8b}
-.dark-slate-gray {background-color: #2f4f4f}
-.dark-spring-green {background-color: #177245}
-.dark-tan {background-color: #918151}
-.dark-tangerine {background-color: #ffa812}
-.dark-taupe {background-color: #483c32}
-.dark-terra-cotta {background-color: #cc4e5c}
-.dark-turquoise {background-color: #00ced1}
-.dark-violet {background-color: #9400d3}
-.dartmouth-green {background-color: #00693e}
-.davy-grey {background-color: #555555}
-.debian-red {background-color: #d70a53}
-.deep-carmine {background-color: #a9203e}
-.deep-carmine-pink {background-color: #ef3038}
-.deep-carrot-orange {background-color: #e9692c}
-.deep-cerise {background-color: #da3287}
-.deep-champagne {background-color: #fad6a5}
-.deep-chestnut {background-color: #b94e48}
-.deep-coffee {background-color: #704241}
-.deep-fuchsia {background-color: #c154c1}
-.deep-jungle-green {background-color: #004b49}
-.deep-lilac {background-color: #9955bb}
-.deep-magenta {background-color: #cc00cc}
-.deep-peach {background-color: #ffcba4}
-.deep-pink {background-color: #ff1493}
-.deep-saffron {background-color: #ff9933}
-.deep-sky-blue {background-color: #00bfff}
-.denim {background-color: #1560bd}
-.desert {background-color: #c19a6b}
-.desert-sand {background-color: #edc9af}
-.dim-gray {background-color: #696969}
-.dodger-blue {background-color: #1e90ff}
-.dogwood-rose {background-color: #d71868}
-.dollar-bill {background-color: #85bb65}
-.drab {background-color: #967117}
-.duke-blue {background-color: #00009c}
-.earth-yellow {background-color: #e1a95f}
-.ecru {background-color: #c2b280}
-.eggplant {background-color: #614051}
-.eggshell {background-color: #f0ead6}
-.egyptian-blue {background-color: #1034a6}
-.electric-blue {background-color: #7df9ff}
-.electric-crimson {background-color: #ff003f}
-.electric-cyan {background-color: #00ffff}
-.electric-green {background-color: #00ff00}
-.electric-indigo {background-color: #6f00ff}
-.electric-lavender {background-color: #f4bbff}
-.electric-lime {background-color: #ccff00}
-.electric-purple {background-color: #bf00ff}
-.electric-ultramarine {background-color: #3f00ff}
-.electric-violet {background-color: #8f00ff}
-.electric-yellow {background-color: #ffff00}
-.emerald {background-color: #50c878}
-.eton-blue {background-color: #96c8a2}
-.fallow {background-color: #c19a6b}
+.Red{background-color:#FF0000}
+.Orange{background-color:#FFA500}
+.Yellow{background-color:#FFFF00}
+.Green{background-color:#008000}
+.Blue{background-color:#0000FF}
+.Indigo{background-color:#4B0082}
+.Purple{background-color:#800080}
+.Pink{background-color:#FFC0CB}
+.HotPink{background-color:#FF69B4}
+.DeepPink{background-color:#FF1493}
+.DarkTurquoise{background-color:#00CED1}
+.DeepSkyBlue{background-color:#00BFFF}
+.SteelBlue{background-color:#4682B4}
+.RoyalBlue{background-color:#4169E1}
+.DodgerBlue{background-color:#1E90FF}
+.SkyBlue{background-color:#87CEEB}
+.LightSkyBlue{background-color:#87CEFA}
+.SpringGreen{background-color:#00FF7F}
+.MediumSpringGreen{background-color:#00FA9A}
+.LimeGreen{background-color:#32CD32}
+.GreenYellow{background-color:#ADFF2F}
+.ForestGreen{background-color:#228B22}
+.DarkCyan{background-color:#008B8B}
+.LightSeaGreen{background-color:#20B2AA}
+.Aquamarine{background-color:#7FFFD4}
+.Cyan{background-color:#00FFFF}
+.Lime{background-color:#00FF00}
+.Gold{background-color:#FFD700}
+.DarkOrange{background-color:#FF8C00}
+.OrangeRed{background-color:#FF4500}
+.Crimson{background-color:#DC143C}
+.FireBrick{background-color:#B22222}
+.DarkRed{background-color:#8B0000}
+.Maroon{background-color:#800000}
+.Brown{background-color:#A52A2A}
+.Chocolate{background-color:#D2691E}
+.RosyBrown{background-color:#BC8F8F}
+.Sienna{background-color:#A0522D}
+.IndianRed{background-color:#CD5C5C}
+.LightCoral{background-color:#F08080}
+.Tomato{background-color:#FF6347}
+.Salmon{background-color:#FA8072}
+.DarkSalmon{background-color:#E9967A}
+.LightSalmon{background-color:#FFA07A}
+.PeachPuff{background-color:#FFDAB9}
+.Moccasin{background-color:#FFE4B5}
+.PapayaWhip{background-color:#FFEFD5}
+.Wheat{background-color:#F5DEB3}
+.BurlyWood{background-color:#DEB887}
+.Tan{background-color:#D2B48C}
+.SandyBrown{background-color:#F4A460}
+.SaddleBrown{background-color:#8B4513}
+.Peru{background-color:#CD853F}
+.GoldenRod{background-color:#DAA520}
